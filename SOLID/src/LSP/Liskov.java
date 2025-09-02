@@ -34,7 +34,7 @@ class Bicyle extends Vehicle{
 		return 2;
 	}
 	public Boolean hasEngine() {
-		return null;
+		return false;
 	}
 }
 public class Liskov {
